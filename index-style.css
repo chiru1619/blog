@@ -1,0 +1,157 @@
+*{
+    border: 0px;
+    margin: 0px;
+}
+body{
+    margin: 0ex;
+}
+.header{
+   background-color: rgb(0, 0, 0);
+
+    
+}
+
+#logo{
+    color: rgb(231, 229, 229);
+    
+    font-style: italic;
+    text-align: center;
+    font-size: 5rem;
+    font-weight: lighter;
+    letter-spacing: 8px;
+
+   
+    padding: 80px;
+
+   
+    font-family: 'Secular One', sans-serif;
+}
+
+
+.sections{
+    display: flex;
+  
+ 
+    background-color: rgb(0, 0, 0);
+
+    font-family: 'Mukta', sans-serif;
+
+}
+.sections a{
+    color: rgb(231, 229, 229);
+    text-decoration: none;
+   
+    font-size:50px;
+
+    
+}    
+
+.sections li{
+    list-style: none;
+    float: left;
+    padding: 2px 60px;
+  
+}
+
+.container{
+        width: 95%;
+        margin: auto;
+}
+
+#what-ques{
+    margin-top: 100px;
+    font-size:4rem;
+    text-align: center;
+    font-family: 'Secular One', sans-serif;
+}
+
+#what-ans{
+    height: 560px;
+
+    font-size: 3.5rem;
+    padding:40px;
+    margin:0px 10px 10px 10px;
+
+    font-family: 'Mukta', sans-serif;
+    text-align: center;
+
+   
+
+    background-color: rgb(255, 247, 134);
+    box-shadow: 0px 0px 100px rgba(09, 0, 0, 0.2);
+    border-radius: 27px;
+    
+}
+#why-ques{
+    margin-top: 80px;
+    font-size: 4rem;
+    text-align: center;
+
+    font-family: 'Secular One', sans-serif;
+}
+
+#why-ans{
+    height: 550px;
+
+    font-family: 'Mukta', sans-serif;
+    font-size: 3.4rem;
+   
+    padding:40px;
+    margin:0px 10px 10px 10px;
+   
+    text-align: center;
+    background-color: rgb(106, 245, 168);
+    box-shadow: 0px 0px 100px rgba(09, 0, 0, 0.2);
+    border-radius: 27px;
+
+}
+
+#new{
+    font-size: 4rem;
+    font-family: 'Secular One', sans-serif;
+    
+    margin-top: 80px;
+    
+    text-align: center;
+
+}
+
+
+#new-ans{
+    height: 330px;
+
+    font-family: 'Mukta', sans-serif;
+    font-size: 3.4rem;
+    
+    padding: 40px;
+    margin:0px 10px 10px 10px;
+    
+    text-align: center;
+    background-color: rgb(255, 166, 0);
+    box-shadow: 0px 0px 100px rgba(09, 0, 0, 0.2);
+    border-radius: 27px;
+}
+
+
+#update a{
+ text-decoration: none;
+ color: rgb(243, 240, 240);
+ font-weight: bolder;
+
+}
+
+footer {
+margin-top: 90px ;
+font-size: 16px ;
+text-align: center;
+padding: 15px;
+
+color: rgb(73, 72, 72);
+}
+ 
+
+.image{
+    margin-top: 100px;
+    margin-left: 0px;;
+
+}
